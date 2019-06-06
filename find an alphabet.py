@@ -1,6 +1,6 @@
-ch_str=input("enter an character :")
+ch_str=input("Input :")
 if ((ch_str>='a' and ch_str<='z') or (ch_str>='A' and ch_str<='Z')):
-        print(" alphabet")
+        print(" Alphabet")
 else:
         print("NO")
         
